@@ -1,0 +1,7 @@
+# # # regards libraries that are required to run the project
+# # # installed using pip install -r requirements.txt through bash terminal
+
+pandas
+faker
+openpyxl
+
